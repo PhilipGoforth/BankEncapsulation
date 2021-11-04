@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "seCsNj7SdUSPuqyOcZAfOGePWc8kl452oD8Xj48kU4H3cZhbUtGVjj9rbdbW8GPWO8yQA+LrMuOdzLHGM7Kzog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ego\\repos\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

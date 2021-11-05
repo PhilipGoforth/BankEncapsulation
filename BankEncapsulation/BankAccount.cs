@@ -6,16 +6,21 @@ namespace BankEncapsulation
 {
     class BankAccount
     {
-        private double balance = 0;
+        public BankAccount()
+        {
+
+        }
+
+        private double _balance = 0;
 
         public void Deposit(double deposit)
         {
-            balance += deposit;
+            _balance += deposit;
             Console.WriteLine($"Deposit of ${deposit} added.\n");
         }
         public void GetBalance()
         {
-            Console.WriteLine($"Account balance: ${balance}");
+            Console.WriteLine($"Account balance: ${_balance}");
         }
     }
 }
